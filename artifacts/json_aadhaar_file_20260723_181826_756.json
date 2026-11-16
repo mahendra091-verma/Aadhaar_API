@@ -1,0 +1,13 @@
+{
+  "beneficiary_id": "756",
+  "application_id": "8554654/67657",
+  "beneficiary_aadhaar_number": "642429689600",
+  "beneficiary_aadhaar_name": "Vikram Kumar",
+  "front_aadhaar_name": "Lakshmi R",
+  "front_aadhaar_dob": "10/04/1989",
+  "front_aadhaar_no": "6371 0043 7821",
+  "front_aadhaar_gender": "Female",
+  "front_aadhaar_photo": true,
+  "beneficiary_aadhaar_number_match": "No",
+  "beneficiary_aadhaar_name_match": "No"
+}
